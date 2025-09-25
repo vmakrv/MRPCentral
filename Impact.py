@@ -1,4 +1,4 @@
-%%writefile pages/1_Impact.py
+pages/1_Impact.py
 import streamlit as st
 import pandas as pd
 import plotly.express as px
